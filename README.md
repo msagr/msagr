@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mehul Sweeti Agrawal.
+- 👋 Hi
 
 
 <!---
